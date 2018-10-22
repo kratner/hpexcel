@@ -1,5 +1,5 @@
 # hpexcel
-High Performance Excel
+*High Performance Excel
 
 SDS_MANAGEMENT.xlsm
 
