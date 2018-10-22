@@ -1,7 +1,7 @@
 # hpexcel
-* High Performance Excel
+## High Performance Excel
 
-SDS_MANAGEMENT.xlsm
+### SDS_MANAGEMENT.xlsm
 
 If you receive the following when running this on Excel for Mac 2011:
 
