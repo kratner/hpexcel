@@ -3,7 +3,7 @@
 
 Open the sources folder and download:
 
-### SDS_MANAGEMENT.xlsm
+### [SDS_MANAGEMENT.xlsm](https://github.com/kratner/hpexcel/blob/master/sources/SDS_MANAGEMENT.xlsm)
 
 If you receive the following when running this on Excel for Mac 2011:
 
