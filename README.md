@@ -1,6 +1,8 @@
 # hpexcel
 ## High Performance Excel
 
+This is the source repository for the book **High Performance Excel:** *Object-Oriented, Class-Based Solutions with Visual Basic for Applications*
+
 Open the sources folder and download (or download directly from the following link):
 
 ### [SDS_MANAGEMENT.xlsm](https://github.com/kratner/hpexcel/blob/master/sources/SDS_MANAGEMENT.xlsm)
