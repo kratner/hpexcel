@@ -1,7 +1,7 @@
 # hpexcel
 ## High Performance Excel
 
-Open the sources folder and download:
+Open the sources folder and download (or download directly from the following link):
 
 ### [SDS_MANAGEMENT.xlsm](https://github.com/kratner/hpexcel/blob/master/sources/SDS_MANAGEMENT.xlsm)
 
