@@ -1,6 +1,8 @@
 # hpexcel
 ## High Performance Excel
 
+Open the sources folder and download:
+
 ### SDS_MANAGEMENT.xlsm
 
 If you receive the following when running this on Excel for Mac 2011:
