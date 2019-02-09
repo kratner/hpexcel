@@ -1,7 +1,13 @@
 # hpexcel
-High Performance Excel
+## High Performance Excel
 
-SDS_MANAGEMENT.xlsm
+This is the source repository for
+
+**High Performance Excel:** *Object-Oriented, Class-Based Solutions with Visual Basic for Applications*
+
+Open the sources folder and download (or download directly from the following link):
+
+### [SDS_MANAGEMENT.xlsm](https://github.com/kratner/hpexcel/blob/master/sources/SDS_MANAGEMENT.xlsm)
 
 If you receive the following when running this on Excel for Mac 2011:
 
